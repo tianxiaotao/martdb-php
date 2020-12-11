@@ -13,7 +13,7 @@
     "autoload": {
       "psr-4": {
         "Martdb\\": "src/martdb/",
-        "Thrift\\": "src/Thrift/"
+        "Thrift\\": "src/Thrift/",
       }
     },
     "require": {
