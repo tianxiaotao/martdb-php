@@ -14,7 +14,7 @@
       "psr-4": {
         "Martdb\\": "src/"
       }
-    }
+    },
     "require": {
     	 "php": ">=7.0",
     }
