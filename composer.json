@@ -1,0 +1,21 @@
+{
+    "name": "martdb-php/martdb",
+    "description": "martdb driver connneter",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "田小涛",
+            "email": "tianloveguoxi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+      "psr-4": {
+        "Martdb\\": "src/"
+      }
+    }
+    "require": {
+    	 "php": ">=7.0",
+    }
+}
